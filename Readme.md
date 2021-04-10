@@ -1,1 +1,1 @@
-See comments on `src/main.js`.
+Example working with secret network.
